@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: https://ruby.taobao.org/
   specs:
     actionmailer (4.2.0)
       actionpack (= 4.2.0)
@@ -169,6 +169,7 @@ DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
   ember-rails
+  ember-source (~> 1.9.0)
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.2.0)
