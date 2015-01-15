@@ -1,3 +1,6 @@
 == README
 
 This is an example app for https://github.com/emberjs/ember-rails/issues/430
+
+Visit after bundle install.
+You may want to change the source before bundle.
